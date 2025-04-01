@@ -29,7 +29,7 @@ Instale as dependências necessárias:
 
  ```bash pip install -r requirements.txt
 Estrutura do Repositório
-api/backend: Implementação do backend da API.
+api/backend: Implementação do backend da API.```
 
 banco-dados: Scripts para análise e transformação de dados no banco de dados.
 
@@ -40,7 +40,4 @@ web-scraping: Código para coletar documentos da web.
 📜 Licença
 Este projeto está licenciado sob a MIT License.
 
-nginx
-Copiar
-Editar
 
